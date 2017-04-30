@@ -1,5 +1,1 @@
-# README
-
-Hello Git!
-
-第一次练习Git Bash，我会加油的
+# hello Git
