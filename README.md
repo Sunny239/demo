@@ -7,7 +7,8 @@
 + 欢迎来到Github  
 - 开始Github的旅行吧  
 
-
+## Github优势
+简单 ，我爱简单！
 
 **每日必学习Github**
 *学习Github*
